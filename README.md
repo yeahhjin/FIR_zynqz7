@@ -22,4 +22,5 @@ The full flow covers writing FIR logic in C (Vitis HLS), exporting RTL, integrat
 - Validate **RTL timing and behavior** of the FIR filter
 - Learn the end-to-end FPGA design process from **C → RTL → Vivado → Simulation**
 
-![Uploading image.png…]()
+<img width="1572" height="486" alt="image" src="https://github.com/user-attachments/assets/30777b5d-d70d-4ee7-ada2-fcc96607eb40" />
+
