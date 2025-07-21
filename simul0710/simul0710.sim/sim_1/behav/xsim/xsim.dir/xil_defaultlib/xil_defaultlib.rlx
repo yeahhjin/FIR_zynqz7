@@ -1,0 +1,8 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+C:/Vivado_HLS_Tutorial/Introduction/lab2/fir_0717/solution1/impl/verilog/fir.v,1752772072,verilog,,C:/Vivado_HLS_Tutorial/Introduction/lab2/fir_0717/solution1/impl/verilog/fir_CTRL_s_axi.v,,fir,,,,,,,,
+C:/Vivado_HLS_Tutorial/Introduction/lab2/fir_0717/solution1/impl/verilog/fir_CTRL_s_axi.v,1752727300,verilog,,C:/Vivado_HLS_Tutorial/Introduction/lab2/simul0710/simul0710.srcs/sim_1/new/tb_axi_fir.v,,fir_CTRL_s_axi,,,,,,,,
+C:/Vivado_HLS_Tutorial/Introduction/lab2/simul0710/simul0710.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+C:/Vivado_HLS_Tutorial/Introduction/lab2/simul0710/simul0710.srcs/sim_1/new/tb_axi_fir.v,1752854562,verilog,,,,tb_axi_fir,,,,,,,,
