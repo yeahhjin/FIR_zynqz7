@@ -14,8 +14,8 @@ The full flow covers writing FIR logic in C (Vitis HLS), exporting RTL, integrat
 ### 2. Vivado
 - ✅ Imported the **FIR IP** generated from Vitis HLS into **Vivado Block Design**
 - ✅ Connected **AXI4-Lite interface** and configured address mapping using **Address Editor**
-- ✅ Added auto-generated files: `fir.v`, `fir_axi.v`
-- ✅ Created `tb_fir.v` to **verify timing and waveforms**
+- ✅ Added auto-generated files: `fir.v`, `fir_CTRL_s_axi.v`
+- ✅ Created `tb_axi_fir.v` to **verify timing and waveforms**
 
 ## 💡 Purpose
 - Verify the **AXI4-Lite interface** functionality
